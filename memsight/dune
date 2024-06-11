@@ -1,0 +1,3 @@
+(executable
+  (name algo1)
+  (libraries smtml))
