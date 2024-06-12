@@ -1,6 +1,6 @@
-#use "topfind";;
-#require "smtml";;
-#install_printer Smtml.Expr.pp;;
+(* #use "topfind";; *)
+(* #require "smtml";; *)
+(* #install_printer Smtml.Expr.pp;; *)
 open Smtml
 
 type expr = Smtml.Expr.t

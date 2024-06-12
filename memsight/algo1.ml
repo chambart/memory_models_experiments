@@ -1,6 +1,6 @@
-#use "topfind";;
-#require "smtml";;
-#install_printer Smtml.Expr.pp;;
+(* #use "topfind";; *)
+(* #require "smtml";; *)
+(* #install_printer Smtml.Expr.pp;; *)
 [@@@ocaml.warning "-32"]
 open Smtml
 
